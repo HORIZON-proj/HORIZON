@@ -1,2 +1,2 @@
-# KAWNEX
-KAWNEX
+# Kerncoin
+Kerncoin
